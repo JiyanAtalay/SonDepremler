@@ -1,4 +1,4 @@
-# Türkiye Depremleri - Büyüklüğü 3'ten Büyükler
+# Türkiye Depremleri - Büyüklüğü 3'ten Büyük Olanlar
 
 Bu proje, Türkiye'deki son 500 deprem arasından büyüklüğü 3'ten fazla olanları gösteren bir uygulamayı içerir. Depremler, Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü verileri kullanılarak güncel olarak alınır ve listelenir.
 
